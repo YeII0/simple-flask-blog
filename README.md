@@ -1,0 +1,1 @@
+Simple blog in flask with sqllite database created while learning from Corey Schafer Python Flask Tutorial.
